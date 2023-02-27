@@ -11,6 +11,10 @@ main {
     margin: 131px auto 131px auto;
 }
 
+section {
+    margin-bottom: 130px;
+}
+
 
 .section-heading {
     font-weight: 700;
@@ -89,4 +93,37 @@ header {
 
 .failures-sec img {
     max-width: 569px;
+}
+
+/* my plans styles */
+.plan-section {
+    text-align: center;
+}
+
+.plans-container {
+    display: flex;
+    gap: 86px;
+    text-align: center;
+}
+
+.plan {
+    text-align: center;
+    max-width: 270px;
+}
+
+.plan-heading {
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+}
+
+.plan-des {
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+
+}
+
+.plan-section>.section-heading {
+    margin-bottom: 50px;
 }
