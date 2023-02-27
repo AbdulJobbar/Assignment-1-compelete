@@ -127,3 +127,38 @@ header {
 .plan-section>.section-heading {
     margin-bottom: 50px;
 }
+
+
+
+/* positive mindset section styles */
+.positive-section {
+    background-image: url(images/watch.png);
+    background-repeat: no-repeat;
+    border-radius: 8px;
+
+}
+
+.positive-container {
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+    border-radius: 8px;
+    padding: 31px;
+    background-repeat: no-repeat;
+
+}
+
+.positive-heading {
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+}
+
+#positive-button {
+    border: 0;
+    height: 64px;
+    width: 160px;
+    color: #F15B22;
+    font-weight: 600;
+    font-size: 20px;
+    background: #FFFFFF;
+    border-radius: 5px;
+}
